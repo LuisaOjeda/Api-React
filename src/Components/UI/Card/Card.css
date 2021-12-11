@@ -4,7 +4,7 @@
 }
 
 .card img{
-    max-width: 250px;
-    box-shadow: 3px 3px 5px blue;
-    border-radius: 20px;
+    max-width: 250em;
+    box-shadow: 5px 3px 5px rgb(202, 45, 168);
+    border-radius: 10px;
 }
